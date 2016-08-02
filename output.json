@@ -1,0 +1,698 @@
+
+            {
+                "@context":
+                {
+                 "pcdm":"http://pcdm.org/models#",
+                 "pcdmuse":"http://pcdm.org/use#",
+                 "mods":"http://www.loc.gov/mods/v3",
+                 "ore": "http://www.openarchives.org/ore/terms/",
+                 "iana": "http://www.iana.org/assignments/relation/"
+                },
+                "@type":"pcdm:Collection",
+                "@id":"http://bc.edu/ar.hanvey.01C001",
+                "mods:title":"Eddie McGrady, MP, jogging near St. Patrick's monument at Saul, Downpatrick, after beating Enoch Powell for the local seat in the Westminster Election",
+                "pcdm:hasMember":[
+                    {"@id":"http://ar.hanvey.01C001/bh016686", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016686/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016686",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016686.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016686/images"},
+                            {"@id":"file://streams/bh016686.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016686/images"},
+                            {"@id":"file://streams/bh016686.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016686/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016687", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016687/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016687",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016687.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016687/images"},
+                            {"@id":"file://streams/bh016687.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016687/images"},
+                            {"@id":"file://streams/bh016687.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016687/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016688", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016688/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016688",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016688.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016688/images"},
+                            {"@id":"file://streams/bh016688.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016688/images"},
+                            {"@id":"file://streams/bh016688.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016688/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016689", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016689/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016689",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016689.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016689/images"},
+                            {"@id":"file://streams/bh016689.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016689/images"},
+                            {"@id":"file://streams/bh016689.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016689/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016690", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016690/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016690",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016690.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016690/images"},
+                            {"@id":"file://streams/bh016690.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016690/images"},
+                            {"@id":"file://streams/bh016690.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016690/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016691", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016691/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016691",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016691.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016691/images"},
+                            {"@id":"file://streams/bh016691.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016691/images"},
+                            {"@id":"file://streams/bh016691.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016691/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016692", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016692/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016692",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016692.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016692/images"},
+                            {"@id":"file://streams/bh016692.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016692/images"},
+                            {"@id":"file://streams/bh016692.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016692/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016693", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016693/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016693",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016693.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016693/images"},
+                            {"@id":"file://streams/bh016693.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016693/images"},
+                            {"@id":"file://streams/bh016693.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016693/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016694", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016694/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016694",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016694.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016694/images"},
+                            {"@id":"file://streams/bh016694.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016694/images"},
+                            {"@id":"file://streams/bh016694.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016694/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016695", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016695/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016695",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016695.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016695/images"},
+                            {"@id":"file://streams/bh016695.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016695/images"},
+                            {"@id":"file://streams/bh016695.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016695/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016696", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016696/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016696",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016696.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016696/images"},
+                            {"@id":"file://streams/bh016696.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016696/images"},
+                            {"@id":"file://streams/bh016696.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016696/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016697", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016697/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016697",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016697.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016697/images"},
+                            {"@id":"file://streams/bh016697.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016697/images"},
+                            {"@id":"file://streams/bh016697.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016697/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016698", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016698/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016698",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016698.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016698/images"},
+                            {"@id":"file://streams/bh016698.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016698/images"},
+                            {"@id":"file://streams/bh016698.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016698/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016699", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016699/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016699",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016699.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016699/images"},
+                            {"@id":"file://streams/bh016699.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016699/images"},
+                            {"@id":"file://streams/bh016699.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016699/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016700", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016700/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016700",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016700.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016700/images"},
+                            {"@id":"file://streams/bh016700.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016700/images"},
+                            {"@id":"file://streams/bh016700.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016700/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016701", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016701/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016701",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016701.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016701/images"},
+                            {"@id":"file://streams/bh016701.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016701/images"},
+                            {"@id":"file://streams/bh016701.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016701/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016702", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016702/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016702",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016702.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016702/images"},
+                            {"@id":"file://streams/bh016702.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016702/images"},
+                            {"@id":"file://streams/bh016702.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016702/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016703", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016703/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016703",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016703.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016703/images"},
+                            {"@id":"file://streams/bh016703.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016703/images"},
+                            {"@id":"file://streams/bh016703.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016703/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016704", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016704/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016704",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016704.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016704/images"},
+                            {"@id":"file://streams/bh016704.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016704/images"},
+                            {"@id":"file://streams/bh016704.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016704/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016705", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016705/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016705",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016705.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016705/images"},
+                            {"@id":"file://streams/bh016705.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016705/images"},
+                            {"@id":"file://streams/bh016705.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016705/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016706", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016706/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016706",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016706.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016706/images"},
+                            {"@id":"file://streams/bh016706.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016706/images"},
+                            {"@id":"file://streams/bh016706.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016706/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016707", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016707/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016707",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016707.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016707/images"},
+                            {"@id":"file://streams/bh016707.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016707/images"},
+                            {"@id":"file://streams/bh016707.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016707/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016708", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016708/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016708",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016708.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016708/images"},
+                            {"@id":"file://streams/bh016708.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016708/images"},
+                            {"@id":"file://streams/bh016708.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016708/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016709", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016709/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016709",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016709.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016709/images"},
+                            {"@id":"file://streams/bh016709.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016709/images"},
+                            {"@id":"file://streams/bh016709.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016709/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016710", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016710/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016710",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016710.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016710/images"},
+                            {"@id":"file://streams/bh016710.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016710/images"},
+                            {"@id":"file://streams/bh016710.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016710/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016711", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016711/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016711",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016711.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016711/images"},
+                            {"@id":"file://streams/bh016711.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016711/images"},
+                            {"@id":"file://streams/bh016711.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016711/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016712", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016712/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016712",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016712.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016712/images"},
+                            {"@id":"file://streams/bh016712.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016712/images"},
+                            {"@id":"file://streams/bh016712.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016712/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016713", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016713/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016713",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016713.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016713/images"},
+                            {"@id":"file://streams/bh016713.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016713/images"},
+                            {"@id":"file://streams/bh016713.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016713/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016714", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016714/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016714",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016714.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016714/images"},
+                            {"@id":"file://streams/bh016714.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016714/images"},
+                            {"@id":"file://streams/bh016714.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016714/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016715", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016715/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016715",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016715.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016715/images"},
+                            {"@id":"file://streams/bh016715.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016715/images"},
+                            {"@id":"file://streams/bh016715.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016715/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016716", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016716/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016716",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016716.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016716/images"},
+                            {"@id":"file://streams/bh016716.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016716/images"},
+                            {"@id":"file://streams/bh016716.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016716/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016717", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016717/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016717",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016717.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016717/images"},
+                            {"@id":"file://streams/bh016717.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016717/images"},
+                            {"@id":"file://streams/bh016717.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016717/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016718", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016718/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016718",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016718.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016718/images"},
+                            {"@id":"file://streams/bh016718.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016718/images"},
+                            {"@id":"file://streams/bh016718.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016718/images"}
+                            ]
+                        }
+                    },
+                
+                    {"@id":"http://ar.hanvey.01C001/bh016719", "@type":"pcdm:Object","pcdm:HasFileSet":
+                        {"@id":"http://ar.hanvey.01C001/bh016719/images",
+                        "@type":"pcdm:Object",
+                        "pcdm:memberOf":"http://ar.hanvey.01C001/bh016719",
+                        "pcdm:hasFile":[
+                            {"@id":"file://streams/bh016719.tif ", "mods:type":"image/tiff", "pdcmuse":"PerservationMasterFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016719/images"},
+                            {"@id":"file://streams/bh016719.jp2 ", "mods:type":"image/jp2", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016719/images"},
+                            {"@id":"file://streams/bh016719.jpg ", "mods:type":"image/jpeg", "pdcmuse":"ServiceFile", "pcdm:memberOf":"http://ar.hanvey.01C001/bh016719/images"}
+                            ]
+                        }
+                    }
+                ],
+                "iana:first":"http://ar.hanvey.01C001/bh016686/proxy",
+                "iana:last":"http://ar.hanvey.01C001/bh016719/proxy",
+                "pcdm:AlternateOrder": [
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016686/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016686",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:next":"http://ar.hanvey.01C001/bh016687"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016687/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016687",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016688"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016688/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016688",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016689"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016689/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016689",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016690"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016690/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016690",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016691"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016691/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016691",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016692"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016692/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016692",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016693"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016693/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016693",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016694"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016694/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016694",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016695"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016695/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016695",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016696"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016696/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016696",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016697"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016697/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016697",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016698"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016698/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016698",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016699"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016699/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016699",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016700"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016700/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016700",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016701"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016701/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016701",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016702"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016702/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016702",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016703"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016703/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016703",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016704"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016704/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016704",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016705"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016705/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016705",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016706"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016706/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016706",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016707"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016707/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016707",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016708"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016708/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016708",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016709"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016709/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016709",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016710"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016710/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016710",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016711"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016711/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016711",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016712"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016712/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016712",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016713"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016713/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016713",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016714"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016714/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016714",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016715"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016715/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016715",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016716"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016716/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016716",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016717"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016717/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016717",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016718"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016718/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016718",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686",
+                        "iana:next":"http://ar.hanvey.01C001/bh016719"
+                    },
+                    {
+                        "@id":"http://ar.hanvey.01C001/bh016719/proxy",
+                        "@type":"ore:proxy",
+                        "ore:proxyFor":"http://ar.hanvey.01C001/bh016719",
+                        "ore:proxyIn":"http://ar.hanvey.01C001",
+                        "iana:prev":"http://ar.hanvey.01C001/bh016686"
+                    }
+                ]
+            }
+        

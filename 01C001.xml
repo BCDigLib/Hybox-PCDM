@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<mets:mets OBJID="ar.hanvey.01C001" LABEL="Eddie McGrady, MP, jogging near St. Patrick's monument at Saul, Downpatrick, after beating Enoch Powell for the local seat in the Westminster Election." TYPE="photographs" 
+	xmlns:mets="http://www.loc.gov/METS/"
+    	xmlns:mods="http://www.loc.gov/mods/v3" 	
+    	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+    	xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+
+<mets:metsHdr CREATEDATE="2016-05-11T10:50:40">
+	<mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+		<mets:name>Boston College, University Libraries, Systems Office</mets:name>
+	</mets:agent>
+</mets:metsHdr>
+<mets:dmdSec ID="DMD1">
+		<mets:mdWrap MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods>
+					<mods:titleInfo>
+						<mods:title>Eddie McGrady, MP, jogging near St. Patrick's monument at Saul, Downpatrick, after beating Enoch Powell for the local seat in the Westminster Election</mods:title>
+					</mods:titleInfo>
+
+					<mods:titleInfo type="alternative">
+						<mods:title>Eddie McGrady, Member of Parliament, jogging near St. Patrick's monument at Saul, Downpatrick, after beating Enoch Powell for the local seat in the Westminster Election</mods:title>
+					</mods:titleInfo>
+
+					<mods:name authority="naf" type="personal">
+						<mods:namePart type="family">Hanvey</mods:namePart>
+						<mods:namePart type="given">Bobbie</mods:namePart>
+						<mods:namePart type="date">1945-</mods:namePart>
+						<mods:displayForm>Hanvey, Bobbie, 1945-</mods:displayForm>
+						<mods:role>
+							<mods:roleTerm type="code" authority="marcrelator">pht</mods:roleTerm>
+							<mods:roleTerm type="text" authority="marcrelator">Photographer</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+
+					<mods:name authority="naf" type="corporate">
+						<mods:namePart>Boston College</mods:namePart>
+						<mods:namePart>John J. Burns Library</mods:namePart>
+						<mods:displayForm>Boston College. John J. Burns Library</mods:displayForm>
+						<mods:role>
+							<mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+							<mods:roleTerm type="text" authority="marcrelator">Owner</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+
+					<mods:typeOfResource>still image</mods:typeOfResource>
+
+					<mods:genre authority="aat" type="workType">black-and-white negatives</mods:genre>
+
+					<mods:originInfo>
+						<mods:dateCreated>1987</mods:dateCreated>
+						<mods:dateCreated encoding="w3cdtf" keyDate="yes">1987</mods:dateCreated>
+						<mods:issuance>monographic</mods:issuance>
+					</mods:originInfo>
+
+					<mods:language>
+						<mods:languageTerm type="text">Not applicable</mods:languageTerm>
+						<mods:languageTerm type="code" authority="iso639-2b">zxx</mods:languageTerm>
+					</mods:language>
+
+					<mods:physicalDescription>
+						<mods:form authority="marcform">electronic</mods:form>
+						<mods:internetMediaType>image/jp2</mods:internetMediaType>
+						<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+						<mods:internetMediaType>image/tif</mods:internetMediaType>
+						<mods:extent>34 black-and-white negatives (35mm)</mods:extent>
+						<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+					</mods:physicalDescription>
+
+					<mods:note>Title based on entry in photographer's inventory.</mods:note>
+					<mods:subject authority="lcsh">
+						<mods:name type="personal"><mods:namePart type="family">McGrady</mods:namePart><mods:namePart type="given">Eddie</mods:namePart><mods:displayForm>McGrady, Eddie</mods:displayForm></mods:name>
+						<mods:genre>Photographs</mods:genre>
+					</mods:subject>
+						<mods:subject authority="lcsh"><mods:geographic>Northern Ireland</mods:geographic><mods:topic>Politics and government</mods:topic><mods:genre>Photographs</mods:genre></mods:subject>
+						<mods:subject authority="lcsh"><mods:topic>Politicians</mods:topic>  <mods:geographic>Northern Ireland</mods:geographic><mods:genre>Photographs</mods:genre></mods:subject>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Bobbie Hanvey Photographic Archives</mods:title>
+						</mods:titleInfo>
+					<mods:part>
+						<mods:detail type="series" level="1">
+							<mods:caption>Series</mods:caption>
+							<mods:number>1</mods:number>
+							<mods:title>Politicians and Political Activities</mods:title>
+						</mods:detail>
+						<mods:detail type="subseries" level="2">
+							<mods:caption>Subseries</mods:caption>
+							<mods:number>C</mods:number>
+							<mods:title>Accretions 2008, 1980s-2007</mods:title>
+						</mods:detail>
+						<mods:detail type="subseries" level="3">
+							<mods:caption>Item</mods:caption>
+							<mods:number>1</mods:number>
+						</mods:detail>
+						</mods:part>
+					</mods:relatedItem>
+					<mods:identifier type="local">(Hanvey)01C001</mods:identifier>
+					<mods:location>
+					<mods:physicalLocation type="Location of original">Boston College, John J. Burns Library, Bobbie Hanvey Photographic Archives: Box 22, Folder 11.</mods:physicalLocation>					</mods:location>
+					<mods:accessCondition type="useAndReproduction">The Bobbie Hanvey Photographic Archives are licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. Citations should credit the Bobbie Hanvey Photographic Archives, John J. Burns Library, Boston College. Requests for high quality reproductions and permissions beyond the scope of this license should be submitted in writing to the Burns Librarian via e-mail (burnsref@bc.edu) or via mail (John J. Burns Library, Boston College, 140 Commonwealth Avenue, Chestnut Hill, MA 02467-3801).</mods:accessCondition>
+					<mods:recordInfo>
+						<mods:languageOfCataloging>
+							<mods:languageTerm type="text">English</mods:languageTerm>
+							<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+						</mods:languageOfCataloging>
+						<mods:recordContentSource>MChB</mods:recordContentSource>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:fileSec ID="FSD1">
+		<mets:fileGrp USE="archive">
+			<mets:file ID="tif00001" MIMETYPE="image/tiff" GROUPID="GID1" SEQ="1">
+				<mets:FLocat xlink:href="file://streams/bh016686.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00002" MIMETYPE="image/tiff" GROUPID="GID2" SEQ="2">
+				<mets:FLocat xlink:href="file://streams/bh016687.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00003" MIMETYPE="image/tiff" GROUPID="GID3" SEQ="3">
+				<mets:FLocat xlink:href="file://streams/bh016688.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00004" MIMETYPE="image/tiff" GROUPID="GID4" SEQ="4">
+				<mets:FLocat xlink:href="file://streams/bh016689.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00005" MIMETYPE="image/tiff" GROUPID="GID5" SEQ="5">
+				<mets:FLocat xlink:href="file://streams/bh016690.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00006" MIMETYPE="image/tiff" GROUPID="GID6" SEQ="6">
+				<mets:FLocat xlink:href="file://streams/bh016691.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00007" MIMETYPE="image/tiff" GROUPID="GID7" SEQ="7">
+				<mets:FLocat xlink:href="file://streams/bh016692.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00008" MIMETYPE="image/tiff" GROUPID="GID8" SEQ="8">
+				<mets:FLocat xlink:href="file://streams/bh016693.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00009" MIMETYPE="image/tiff" GROUPID="GID9" SEQ="9">
+				<mets:FLocat xlink:href="file://streams/bh016694.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00010" MIMETYPE="image/tiff" GROUPID="GID10" SEQ="10">
+				<mets:FLocat xlink:href="file://streams/bh016695.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00011" MIMETYPE="image/tiff" GROUPID="GID11" SEQ="11">
+				<mets:FLocat xlink:href="file://streams/bh016696.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00012" MIMETYPE="image/tiff" GROUPID="GID12" SEQ="12">
+				<mets:FLocat xlink:href="file://streams/bh016697.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00013" MIMETYPE="image/tiff" GROUPID="GID13" SEQ="13">
+				<mets:FLocat xlink:href="file://streams/bh016698.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00014" MIMETYPE="image/tiff" GROUPID="GID14" SEQ="14">
+				<mets:FLocat xlink:href="file://streams/bh016699.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00015" MIMETYPE="image/tiff" GROUPID="GID15" SEQ="15">
+				<mets:FLocat xlink:href="file://streams/bh016700.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00016" MIMETYPE="image/tiff" GROUPID="GID16" SEQ="16">
+				<mets:FLocat xlink:href="file://streams/bh016701.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00017" MIMETYPE="image/tiff" GROUPID="GID17" SEQ="17">
+				<mets:FLocat xlink:href="file://streams/bh016702.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00018" MIMETYPE="image/tiff" GROUPID="GID18" SEQ="18">
+				<mets:FLocat xlink:href="file://streams/bh016703.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00019" MIMETYPE="image/tiff" GROUPID="GID19" SEQ="19">
+				<mets:FLocat xlink:href="file://streams/bh016704.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00020" MIMETYPE="image/tiff" GROUPID="GID20" SEQ="20">
+				<mets:FLocat xlink:href="file://streams/bh016705.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00021" MIMETYPE="image/tiff" GROUPID="GID21" SEQ="21">
+				<mets:FLocat xlink:href="file://streams/bh016706.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00022" MIMETYPE="image/tiff" GROUPID="GID22" SEQ="22">
+				<mets:FLocat xlink:href="file://streams/bh016707.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00023" MIMETYPE="image/tiff" GROUPID="GID23" SEQ="23">
+				<mets:FLocat xlink:href="file://streams/bh016708.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00024" MIMETYPE="image/tiff" GROUPID="GID24" SEQ="24">
+				<mets:FLocat xlink:href="file://streams/bh016709.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00025" MIMETYPE="image/tiff" GROUPID="GID25" SEQ="25">
+				<mets:FLocat xlink:href="file://streams/bh016710.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00026" MIMETYPE="image/tiff" GROUPID="GID26" SEQ="26">
+				<mets:FLocat xlink:href="file://streams/bh016711.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00027" MIMETYPE="image/tiff" GROUPID="GID27" SEQ="27">
+				<mets:FLocat xlink:href="file://streams/bh016712.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00028" MIMETYPE="image/tiff" GROUPID="GID28" SEQ="28">
+				<mets:FLocat xlink:href="file://streams/bh016713.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00029" MIMETYPE="image/tiff" GROUPID="GID29" SEQ="29">
+				<mets:FLocat xlink:href="file://streams/bh016714.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00030" MIMETYPE="image/tiff" GROUPID="GID30" SEQ="30">
+				<mets:FLocat xlink:href="file://streams/bh016715.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00031" MIMETYPE="image/tiff" GROUPID="GID31" SEQ="31">
+				<mets:FLocat xlink:href="file://streams/bh016716.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00032" MIMETYPE="image/tiff" GROUPID="GID32" SEQ="32">
+				<mets:FLocat xlink:href="file://streams/bh016717.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00033" MIMETYPE="image/tiff" GROUPID="GID33" SEQ="33">
+				<mets:FLocat xlink:href="file://streams/bh016718.tif " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="tif00034" MIMETYPE="image/tiff" GROUPID="GID34" SEQ="34">
+				<mets:FLocat xlink:href="file://streams/bh016719.tif " LOCTYPE="URL"/>
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp USE="reference image dynamic">
+			<mets:file ID="jp200001" MIMETYPE="image/jp2" GROUPID="GID1" SEQ="1">
+				<mets:FLocat xlink:href="file://streams/bh016686.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200002" MIMETYPE="image/jp2" GROUPID="GID2" SEQ="2">
+				<mets:FLocat xlink:href="file://streams/bh016687.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200003" MIMETYPE="image/jp2" GROUPID="GID3" SEQ="3">
+				<mets:FLocat xlink:href="file://streams/bh016688.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200004" MIMETYPE="image/jp2" GROUPID="GID4" SEQ="4">
+				<mets:FLocat xlink:href="file://streams/bh016689.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200005" MIMETYPE="image/jp2" GROUPID="GID5" SEQ="5">
+				<mets:FLocat xlink:href="file://streams/bh016690.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200006" MIMETYPE="image/jp2" GROUPID="GID6" SEQ="6">
+				<mets:FLocat xlink:href="file://streams/bh016691.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200007" MIMETYPE="image/jp2" GROUPID="GID7" SEQ="7">
+				<mets:FLocat xlink:href="file://streams/bh016692.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200008" MIMETYPE="image/jp2" GROUPID="GID8" SEQ="8">
+				<mets:FLocat xlink:href="file://streams/bh016693.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200009" MIMETYPE="image/jp2" GROUPID="GID9" SEQ="9">
+				<mets:FLocat xlink:href="file://streams/bh016694.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200010" MIMETYPE="image/jp2" GROUPID="GID10" SEQ="10">
+				<mets:FLocat xlink:href="file://streams/bh016695.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200011" MIMETYPE="image/jp2" GROUPID="GID11" SEQ="11">
+				<mets:FLocat xlink:href="file://streams/bh016696.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200012" MIMETYPE="image/jp2" GROUPID="GID12" SEQ="12">
+				<mets:FLocat xlink:href="file://streams/bh016697.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200013" MIMETYPE="image/jp2" GROUPID="GID13" SEQ="13">
+				<mets:FLocat xlink:href="file://streams/bh016698.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200014" MIMETYPE="image/jp2" GROUPID="GID14" SEQ="14">
+				<mets:FLocat xlink:href="file://streams/bh016699.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200015" MIMETYPE="image/jp2" GROUPID="GID15" SEQ="15">
+				<mets:FLocat xlink:href="file://streams/bh016700.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200016" MIMETYPE="image/jp2" GROUPID="GID16" SEQ="16">
+				<mets:FLocat xlink:href="file://streams/bh016701.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200017" MIMETYPE="image/jp2" GROUPID="GID17" SEQ="17">
+				<mets:FLocat xlink:href="file://streams/bh016702.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200018" MIMETYPE="image/jp2" GROUPID="GID18" SEQ="18">
+				<mets:FLocat xlink:href="file://streams/bh016703.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200019" MIMETYPE="image/jp2" GROUPID="GID19" SEQ="19">
+				<mets:FLocat xlink:href="file://streams/bh016704.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200020" MIMETYPE="image/jp2" GROUPID="GID20" SEQ="20">
+				<mets:FLocat xlink:href="file://streams/bh016705.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200021" MIMETYPE="image/jp2" GROUPID="GID21" SEQ="21">
+				<mets:FLocat xlink:href="file://streams/bh016706.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200022" MIMETYPE="image/jp2" GROUPID="GID22" SEQ="22">
+				<mets:FLocat xlink:href="file://streams/bh016707.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200023" MIMETYPE="image/jp2" GROUPID="GID23" SEQ="23">
+				<mets:FLocat xlink:href="file://streams/bh016708.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200024" MIMETYPE="image/jp2" GROUPID="GID24" SEQ="24">
+				<mets:FLocat xlink:href="file://streams/bh016709.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200025" MIMETYPE="image/jp2" GROUPID="GID25" SEQ="25">
+				<mets:FLocat xlink:href="file://streams/bh016710.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200026" MIMETYPE="image/jp2" GROUPID="GID26" SEQ="26">
+				<mets:FLocat xlink:href="file://streams/bh016711.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200027" MIMETYPE="image/jp2" GROUPID="GID27" SEQ="27">
+				<mets:FLocat xlink:href="file://streams/bh016712.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200028" MIMETYPE="image/jp2" GROUPID="GID28" SEQ="28">
+				<mets:FLocat xlink:href="file://streams/bh016713.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200029" MIMETYPE="image/jp2" GROUPID="GID29" SEQ="29">
+				<mets:FLocat xlink:href="file://streams/bh016714.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200030" MIMETYPE="image/jp2" GROUPID="GID30" SEQ="30">
+				<mets:FLocat xlink:href="file://streams/bh016715.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200031" MIMETYPE="image/jp2" GROUPID="GID31" SEQ="31">
+				<mets:FLocat xlink:href="file://streams/bh016716.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200032" MIMETYPE="image/jp2" GROUPID="GID32" SEQ="32">
+				<mets:FLocat xlink:href="file://streams/bh016717.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200033" MIMETYPE="image/jp2" GROUPID="GID33" SEQ="33">
+				<mets:FLocat xlink:href="file://streams/bh016718.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jp200034" MIMETYPE="image/jp2" GROUPID="GID34" SEQ="34">
+				<mets:FLocat xlink:href="file://streams/bh016719.jp2 " LOCTYPE="URL"/>
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp USE="reference image">
+			<mets:file ID="jpg00001" MIMETYPE="image/jpeg" GROUPID="GID1" SEQ="1">
+				<mets:FLocat xlink:href="file://streams/bh016686.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00002" MIMETYPE="image/jpeg" GROUPID="GID2" SEQ="2">
+				<mets:FLocat xlink:href="file://streams/bh016687.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00003" MIMETYPE="image/jpeg" GROUPID="GID3" SEQ="3">
+				<mets:FLocat xlink:href="file://streams/bh016688.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00004" MIMETYPE="image/jpeg" GROUPID="GID4" SEQ="4">
+				<mets:FLocat xlink:href="file://streams/bh016689.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00005" MIMETYPE="image/jpeg" GROUPID="GID5" SEQ="5">
+				<mets:FLocat xlink:href="file://streams/bh016690.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00006" MIMETYPE="image/jpeg" GROUPID="GID6" SEQ="6">
+				<mets:FLocat xlink:href="file://streams/bh016691.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00007" MIMETYPE="image/jpeg" GROUPID="GID7" SEQ="7">
+				<mets:FLocat xlink:href="file://streams/bh016692.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00008" MIMETYPE="image/jpeg" GROUPID="GID8" SEQ="8">
+				<mets:FLocat xlink:href="file://streams/bh016693.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00009" MIMETYPE="image/jpeg" GROUPID="GID9" SEQ="9">
+				<mets:FLocat xlink:href="file://streams/bh016694.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00010" MIMETYPE="image/jpeg" GROUPID="GID10" SEQ="10">
+				<mets:FLocat xlink:href="file://streams/bh016695.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00011" MIMETYPE="image/jpeg" GROUPID="GID11" SEQ="11">
+				<mets:FLocat xlink:href="file://streams/bh016696.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00012" MIMETYPE="image/jpeg" GROUPID="GID12" SEQ="12">
+				<mets:FLocat xlink:href="file://streams/bh016697.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00013" MIMETYPE="image/jpeg" GROUPID="GID13" SEQ="13">
+				<mets:FLocat xlink:href="file://streams/bh016698.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00014" MIMETYPE="image/jpeg" GROUPID="GID14" SEQ="14">
+				<mets:FLocat xlink:href="file://streams/bh016699.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00015" MIMETYPE="image/jpeg" GROUPID="GID15" SEQ="15">
+				<mets:FLocat xlink:href="file://streams/bh016700.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00016" MIMETYPE="image/jpeg" GROUPID="GID16" SEQ="16">
+				<mets:FLocat xlink:href="file://streams/bh016701.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00017" MIMETYPE="image/jpeg" GROUPID="GID17" SEQ="17">
+				<mets:FLocat xlink:href="file://streams/bh016702.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00018" MIMETYPE="image/jpeg" GROUPID="GID18" SEQ="18">
+				<mets:FLocat xlink:href="file://streams/bh016703.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00019" MIMETYPE="image/jpeg" GROUPID="GID19" SEQ="19">
+				<mets:FLocat xlink:href="file://streams/bh016704.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00020" MIMETYPE="image/jpeg" GROUPID="GID20" SEQ="20">
+				<mets:FLocat xlink:href="file://streams/bh016705.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00021" MIMETYPE="image/jpeg" GROUPID="GID21" SEQ="21">
+				<mets:FLocat xlink:href="file://streams/bh016706.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00022" MIMETYPE="image/jpeg" GROUPID="GID22" SEQ="22">
+				<mets:FLocat xlink:href="file://streams/bh016707.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00023" MIMETYPE="image/jpeg" GROUPID="GID23" SEQ="23">
+				<mets:FLocat xlink:href="file://streams/bh016708.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00024" MIMETYPE="image/jpeg" GROUPID="GID24" SEQ="24">
+				<mets:FLocat xlink:href="file://streams/bh016709.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00025" MIMETYPE="image/jpeg" GROUPID="GID25" SEQ="25">
+				<mets:FLocat xlink:href="file://streams/bh016710.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00026" MIMETYPE="image/jpeg" GROUPID="GID26" SEQ="26">
+				<mets:FLocat xlink:href="file://streams/bh016711.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00027" MIMETYPE="image/jpeg" GROUPID="GID27" SEQ="27">
+				<mets:FLocat xlink:href="file://streams/bh016712.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00028" MIMETYPE="image/jpeg" GROUPID="GID28" SEQ="28">
+				<mets:FLocat xlink:href="file://streams/bh016713.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00029" MIMETYPE="image/jpeg" GROUPID="GID29" SEQ="29">
+				<mets:FLocat xlink:href="file://streams/bh016714.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00030" MIMETYPE="image/jpeg" GROUPID="GID30" SEQ="30">
+				<mets:FLocat xlink:href="file://streams/bh016715.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00031" MIMETYPE="image/jpeg" GROUPID="GID31" SEQ="31">
+				<mets:FLocat xlink:href="file://streams/bh016716.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00032" MIMETYPE="image/jpeg" GROUPID="GID32" SEQ="32">
+				<mets:FLocat xlink:href="file://streams/bh016717.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00033" MIMETYPE="image/jpeg" GROUPID="GID33" SEQ="33">
+				<mets:FLocat xlink:href="file://streams/bh016718.jpg " LOCTYPE="URL"/>
+			</mets:file>
+			<mets:file ID="jpg00034" MIMETYPE="image/jpeg" GROUPID="GID34" SEQ="34">
+				<mets:FLocat xlink:href="file://streams/bh016719.jpg " LOCTYPE="URL"/>
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="physical" ID="SMD1">
+		<mets:div TYPE="images" LABEL="Eddie McGrady, MP, jogging near St. Patrick's monument at Saul, Downpatrick, after beating Enoch Powell for the local seat in the Westminster Election." ORDER="1">
+			<mets:div TYPE="process" LABEL="black-and-white negatives (35mm)" ORDER="1">
+				<mets:div TYPE="image" LABEL="bh016686" ORDER="1">
+					<mets:fptr FILEID="tif00001"/>
+					<mets:fptr FILEID="jp200001"/>
+					<mets:fptr FILEID="jpg00001"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016687" ORDER="2">
+					<mets:fptr FILEID="tif00002"/>
+					<mets:fptr FILEID="jp200002"/>
+					<mets:fptr FILEID="jpg00002"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016688" ORDER="3">
+					<mets:fptr FILEID="tif00003"/>
+					<mets:fptr FILEID="jp200003"/>
+					<mets:fptr FILEID="jpg00003"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016689" ORDER="4">
+					<mets:fptr FILEID="tif00004"/>
+					<mets:fptr FILEID="jp200004"/>
+					<mets:fptr FILEID="jpg00004"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016690" ORDER="5">
+					<mets:fptr FILEID="tif00005"/>
+					<mets:fptr FILEID="jp200005"/>
+					<mets:fptr FILEID="jpg00005"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016691" ORDER="6">
+					<mets:fptr FILEID="tif00006"/>
+					<mets:fptr FILEID="jp200006"/>
+					<mets:fptr FILEID="jpg00006"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016692" ORDER="7">
+					<mets:fptr FILEID="tif00007"/>
+					<mets:fptr FILEID="jp200007"/>
+					<mets:fptr FILEID="jpg00007"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016693" ORDER="8">
+					<mets:fptr FILEID="tif00008"/>
+					<mets:fptr FILEID="jp200008"/>
+					<mets:fptr FILEID="jpg00008"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016694" ORDER="9">
+					<mets:fptr FILEID="tif00009"/>
+					<mets:fptr FILEID="jp200009"/>
+					<mets:fptr FILEID="jpg00009"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016695" ORDER="10">
+					<mets:fptr FILEID="tif00010"/>
+					<mets:fptr FILEID="jp200010"/>
+					<mets:fptr FILEID="jpg00010"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016696" ORDER="11">
+					<mets:fptr FILEID="tif00011"/>
+					<mets:fptr FILEID="jp200011"/>
+					<mets:fptr FILEID="jpg00011"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016697" ORDER="12">
+					<mets:fptr FILEID="tif00012"/>
+					<mets:fptr FILEID="jp200012"/>
+					<mets:fptr FILEID="jpg00012"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016698" ORDER="13">
+					<mets:fptr FILEID="tif00013"/>
+					<mets:fptr FILEID="jp200013"/>
+					<mets:fptr FILEID="jpg00013"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016699" ORDER="14">
+					<mets:fptr FILEID="tif00014"/>
+					<mets:fptr FILEID="jp200014"/>
+					<mets:fptr FILEID="jpg00014"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016700" ORDER="15">
+					<mets:fptr FILEID="tif00015"/>
+					<mets:fptr FILEID="jp200015"/>
+					<mets:fptr FILEID="jpg00015"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016701" ORDER="16">
+					<mets:fptr FILEID="tif00016"/>
+					<mets:fptr FILEID="jp200016"/>
+					<mets:fptr FILEID="jpg00016"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016702" ORDER="17">
+					<mets:fptr FILEID="tif00017"/>
+					<mets:fptr FILEID="jp200017"/>
+					<mets:fptr FILEID="jpg00017"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016703" ORDER="18">
+					<mets:fptr FILEID="tif00018"/>
+					<mets:fptr FILEID="jp200018"/>
+					<mets:fptr FILEID="jpg00018"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016704" ORDER="19">
+					<mets:fptr FILEID="tif00019"/>
+					<mets:fptr FILEID="jp200019"/>
+					<mets:fptr FILEID="jpg00019"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016705" ORDER="20">
+					<mets:fptr FILEID="tif00020"/>
+					<mets:fptr FILEID="jp200020"/>
+					<mets:fptr FILEID="jpg00020"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016706" ORDER="21">
+					<mets:fptr FILEID="tif00021"/>
+					<mets:fptr FILEID="jp200021"/>
+					<mets:fptr FILEID="jpg00021"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016707" ORDER="22">
+					<mets:fptr FILEID="tif00022"/>
+					<mets:fptr FILEID="jp200022"/>
+					<mets:fptr FILEID="jpg00022"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016708" ORDER="23">
+					<mets:fptr FILEID="tif00023"/>
+					<mets:fptr FILEID="jp200023"/>
+					<mets:fptr FILEID="jpg00023"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016709" ORDER="24">
+					<mets:fptr FILEID="tif00024"/>
+					<mets:fptr FILEID="jp200024"/>
+					<mets:fptr FILEID="jpg00024"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016710" ORDER="25">
+					<mets:fptr FILEID="tif00025"/>
+					<mets:fptr FILEID="jp200025"/>
+					<mets:fptr FILEID="jpg00025"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016711" ORDER="26">
+					<mets:fptr FILEID="tif00026"/>
+					<mets:fptr FILEID="jp200026"/>
+					<mets:fptr FILEID="jpg00026"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016712" ORDER="27">
+					<mets:fptr FILEID="tif00027"/>
+					<mets:fptr FILEID="jp200027"/>
+					<mets:fptr FILEID="jpg00027"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016713" ORDER="28">
+					<mets:fptr FILEID="tif00028"/>
+					<mets:fptr FILEID="jp200028"/>
+					<mets:fptr FILEID="jpg00028"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016714" ORDER="29">
+					<mets:fptr FILEID="tif00029"/>
+					<mets:fptr FILEID="jp200029"/>
+					<mets:fptr FILEID="jpg00029"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016715" ORDER="30">
+					<mets:fptr FILEID="tif00030"/>
+					<mets:fptr FILEID="jp200030"/>
+					<mets:fptr FILEID="jpg00030"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016716" ORDER="31">
+					<mets:fptr FILEID="tif00031"/>
+					<mets:fptr FILEID="jp200031"/>
+					<mets:fptr FILEID="jpg00031"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016717" ORDER="32">
+					<mets:fptr FILEID="tif00032"/>
+					<mets:fptr FILEID="jp200032"/>
+					<mets:fptr FILEID="jpg00032"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016718" ORDER="33">
+					<mets:fptr FILEID="tif00033"/>
+					<mets:fptr FILEID="jp200033"/>
+					<mets:fptr FILEID="jpg00033"/>
+				</mets:div>
+				<mets:div TYPE="image" LABEL="bh016719" ORDER="34">
+					<mets:fptr FILEID="tif00034"/>
+					<mets:fptr FILEID="jp200034"/>
+					<mets:fptr FILEID="jpg00034"/>
+				</mets:div>
+			</mets:div>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
