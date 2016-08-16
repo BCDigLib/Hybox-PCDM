@@ -123,7 +123,7 @@
                     <xsl:text>
                         "iana:prev":"http://</xsl:text>
                     <xsl:value-of select="$objectURI"/><xsl:text>/</xsl:text>
-                    <xsl:value-of select="preceding-sibling::mets:div/@LABEL"/>
+                    <xsl:value-of select="preceding-sibling::mets:div[1]/@LABEL"/>
                     <xsl:text>"
                     }
                 ]</xsl:text>
@@ -132,7 +132,7 @@
                     <xsl:text>
                         "iana:prev":"http://</xsl:text>
                     <xsl:value-of select="$objectURI"/><xsl:text>/</xsl:text>
-                    <xsl:value-of select="preceding-sibling::mets:div/@LABEL"/>
+                    <xsl:value-of select="preceding-sibling::mets:div[1]/@LABEL"/>
                     <xsl:text>",
                         "iana:next":"http://</xsl:text>
                     <xsl:value-of select="$objectURI"/><xsl:text>/</xsl:text>
